@@ -75,19 +75,3 @@ To use the Markdown Generator, simply type in your plain text and see the Markdo
     \```
 
 This tool simplifies the process of converting plain text to Markdown, making your writing and editing tasks more efficient.
-
-## Installation
-
-You can use Markdown Generator directly from the website. There's no need to install anything. Just visit [Markdown Generator](#) and start converting your text to Markdown instantly.
-
-## Contributing
-
-If you'd like to contribute to Markdown Generator, feel free to fork the repository and submit a pull request with your improvements. We welcome contributions from the community.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-Enjoy using Markdown Generator to streamline your Markdown formatting needs! If you have any questions or suggestions, please don't hesitate to get in touch.
