@@ -20,6 +20,10 @@ const DisplayContainer = styled.div`
   width: 100%;
   height: 100%;
   background-color: blue;
+  @media (max-width: 768px) {
+    flex-direction: column;
+    height: 50%;
+  }
 `;
 const MarkdownApp = () => {
   const [markdown, setMarkdown] = useState(`# Hello World`);

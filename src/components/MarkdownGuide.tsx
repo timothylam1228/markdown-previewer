@@ -26,6 +26,11 @@ const Guide = styled.div`
   background-color: white;
   color: black;
   font-family: Arial, monospace;
+
+  @media (max-width: 768px) {
+    font-size: 12px;
+    width: 90%;
+  }
 `;
 
 const CloseButton = styled.div`
