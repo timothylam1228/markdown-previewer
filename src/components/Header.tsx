@@ -20,6 +20,10 @@ const Button = styled.div`
   padding: 10px;
   color: black;
   border-radius: 5px;
+  &:hover {
+    background-color: black;
+    color: white;
+  }
 `;
 
 interface HeaderProps {
